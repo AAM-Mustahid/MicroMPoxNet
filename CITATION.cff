@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-title: "MicroMPoxNet: A Lightweight CNN for Interpretable Monkeypox Classification in Dermoscopic Images with Comparative Transfer Learning Evaluation"
 message: "If you use this repository, please cite the associated paper."
-type: article
+title: "MicroMPoxNet"
+type: software
+
 authors:
   - family-names: Mustahid
     given-names: A. A. M.
@@ -15,15 +16,34 @@ authors:
     given-names: Yujin
   - family-names: Sohel
     given-names: Ferdous
-year: 2026
-repository-code: "https://github.com/YOUR_GITHUB_USERNAME/MicroMPoxNet"
+
+repository-code: "https://github.com/AAM-Mustahid/MicroMPoxNet"
+url: "https://github.com/AAM-Mustahid/MicroMPoxNet"
+license: "MIT"
+date-released: 2026-01-01
+
 keywords:
   - Monkeypox
   - Deep Learning
   - Medical Image Classification
   - Explainable AI
   - Lightweight CNN
-# doi:
-# journal:
-# volume:
-# pages:
+
+preferred-citation:
+  type: article
+  title: "MicroMPoxNet: A Lightweight CNN for Interpretable Monkeypox Classification in Dermoscopic Images with Comparative Transfer Learning Evaluation"
+  authors:
+    - family-names: Mustahid
+      given-names: A. A. M.
+    - family-names: Muzahid
+      given-names: A. A. M.
+    - family-names: Rahman
+      given-names: Md. Sadekur
+    - family-names: Han
+      given-names: Hua
+    - family-names: Zhang
+      given-names: Yujin
+    - family-names: Sohel
+      given-names: Ferdous
+  year: 2026
+  journal: "Under Review"
