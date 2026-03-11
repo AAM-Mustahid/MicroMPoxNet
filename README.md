@@ -40,8 +40,7 @@ MicroMPoxNet/
 │   └── Final_JournalGraph.png
 │
 ├── models/
-│
-├── training/
+│   └── description.md
 │
 └── dataset/
     └── dataset_links.md
@@ -202,3 +201,4 @@ Email: *mustahid34@gmail.com*
 
 
 ---
+
